@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845079407884",
+    "project_id": "shareride-a0a51",
+    "storage_bucket": "shareride-a0a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845079407884:android:05ad6ef72395254b59ad29",
+        "android_client_info": {
+          "package_name": "com.example.sharerideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845079407884-pcunrdbo7s4jjgdd7q6gurct2hcb6gtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRg9itjPYWpmVjfqaFn8jSEhziHZv7XZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845079407884-pcunrdbo7s4jjgdd7q6gurct2hcb6gtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

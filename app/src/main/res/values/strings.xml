@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareRideApp</string>
+    <string name="title_activity_driver_map">DriverMapActivity</string>
+    <string name="title_activity_passenger_map">PassengerMapActivity</string>
+</resources>
