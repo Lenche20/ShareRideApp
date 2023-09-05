@@ -4,7 +4,6 @@ Share Ride App is a Mobile Platforms and Programing Project.
 
 Technologies: Android Native - Java, Firebase, Google Maps API, Geofire API, Place Autocomplete API. 
 
-GitHub link: github.com/Lenche20/ShareRideApp
 Demo video of the application: https://youtu.be/u4U3WOLD3_g
 
 Description: "ShareRide" is an application that connects passengers who don't have vehicles and drivers with cars. 
